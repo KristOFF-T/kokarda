@@ -1,0 +1,4 @@
+Irányítások:
+J, L: vonalvastagság változtatás
+Q, E: rádiusz változtatás
+V: módváltás

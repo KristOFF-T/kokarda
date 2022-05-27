@@ -2,3 +2,9 @@ Irányítások:
 J, L: vonalvastagság változtatás
 Q, E: rádiusz változtatás
 V: módváltás
+
+Controls:
+J, L: change line width
+Q, E: change radius
+V: change mode
+
